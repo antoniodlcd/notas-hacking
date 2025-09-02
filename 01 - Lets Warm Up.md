@@ -17,7 +17,7 @@ picoCTF{p}
 >>> quit()
 ```
 ## Notas
-* Hay que subir las resueltas con el formato de las banderas
+* Hay que subir las resueltas con el formato de las banderas "picoCTF{flag}"
 * CyberChef es un sitio web que permite codifica y decodificar en diferentes formatos
 ## Referencias
 https://neapay.com/online-tools/hex-to-ascii-converter.html

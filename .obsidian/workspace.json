@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8bcdb73c94c917b1",
+        "id": "d759bc1e17e74a6b",
         "type": "tabs",
         "children": [
           {
-            "id": "a699c4867f9a96c2",
+            "id": "8ddf799ae61ff11b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "368a3d30c09365f0",
@@ -169,10 +165,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "a699c4867f9a96c2",
+  "active": "8ddf799ae61ff11b",
   "lastOpenFiles": [
-    "01 - Lets Warm Up.md",
+    "09 - Nice NetCat.md",
+    "04 - First Grep.md",
+    "03 - Warmed UP.md",
+    "03 - Bases.md",
+    "05 - Obedient Cat.md",
+    "07 - Plumbing.md",
+    "06 - What iss a net cat.md",
     "pantilla.md",
+    "08 - Glitch Cat.md",
+    "Pasted image 20250901114721.png",
+    "Pasted image 20250901114020.png",
+    "Pasted image 20250901113756.png",
+    "Pasted image 20250901113007.png",
+    "Pasted image 20250901111752.png",
+    "Untitled.md",
+    "Pasted image 20250901111104.png",
+    "Pasted image 20250901111036.png",
+    "02 - 2Warm.md",
+    "01 - Lets Warm Up.md",
     "README.md"
   ]
 }

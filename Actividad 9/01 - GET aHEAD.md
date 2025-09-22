@@ -10,5 +10,5 @@ Content-type: text/html; charset=UTF-8
 
 ```
 ## Notas
-[-I] - es un argumento del comando curl para ver el encabezado de una pagina web
+[-I] - es un argumento del comando curl para ver el encabezado de una pagina web 
 ## Referencias

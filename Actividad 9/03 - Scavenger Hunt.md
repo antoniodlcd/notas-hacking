@@ -34,4 +34,4 @@ Congrats! You completed the scavenger hunt. Part 5: _f7ce8828}
 ## Notas
 ## Referencias
 https://httpd.apache.org/docs/2.4/en/howto/htaccess.html
-https://en.wikipedia.org/wiki/.DS_Store
+https://en.wikipedia.org/wiki/.DS_Store 

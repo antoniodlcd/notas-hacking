@@ -64,5 +64,5 @@ conseguí
 
 ```
 ## Notas
-se puede hacer un for en linux para 
+
 ## Referencias

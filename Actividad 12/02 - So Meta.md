@@ -21,5 +21,5 @@ picoCTF{s0_m3ta_fec06741}
 
 ```
 ## Notas
-exiftool - es una herramienta que te ayuda a ver los metadatos de una imagen
+exiftool - es una herramienta que te ayuda a ver los metadatos de una imagen4
 ## Referencias
